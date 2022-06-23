@@ -83,9 +83,9 @@ author:
   name             : "Fraser Goldsworth"
   avatar           : "profile.png"
   bio              : "Oceanography student at the University of Oxford, on the look out for postdocs"
-  location         : "Oxford, UK"
-  employer         : "AOPP, University of Oxford"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : 
+  employer         : "AOPP, University of Oxford, UK"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=SqRZinsAAAAJ&hl=en"
   email            : "frasergocean@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
