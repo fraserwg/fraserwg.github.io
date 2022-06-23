@@ -6,10 +6,10 @@ excerpt: 'The upper limb of the Atlantic meridional overturning circulation draw
 date: 2021
 venue: 'Journal of Physical Oceanography'
 paperurl: 'https://doi.org/10.1175/JPO-D-20-0273.1'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Goldsworth, F. W., Marshall, D. P., Johnson, H. L. (2021). Symmetric Instability in Cross-Equatorial Western Boundary Currents. Journal of Physical Oceanography, 51(6), 2049– 2067. https://doi.org/10.1175/JPO-D-20-0273.1.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://academicpages.github.io/files/2020-north_brazil_current.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation:Goldsworth, F. W., Marshall, D. P., Johnson, H. L. (2021). Symmetric Instability in Cross-Equatorial Western Boundary Currents. Journal of Physical Oceanography, 51(6), 2049– 2067. https://doi.org/10.1175/JPO-D-20-0273.1.
