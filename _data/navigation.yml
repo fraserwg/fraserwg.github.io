@@ -3,11 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Invited Talks"
+    url: /invited_talks/
+
+  - title: "Conferences"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "CV"
-    url: /cv/
+    url: /files/GoldsworthCV.pdf

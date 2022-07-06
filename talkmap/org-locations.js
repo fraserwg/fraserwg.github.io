@@ -1,22 +1,37 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "Imperial College London",
+    51.4989595,
+    -0.17564125978794498
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "Cambridge, UK",
+    52.2055314,
+    0.1186637
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "Hamburg, Germany",
+    53.550341,
+    10.000654
   ],
   [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "The Trinity School Nottingham",
+    52.9695461,
+    -1.2067109465799057
+  ],
+  [
+    "Exeter, UK",
+    50.7255794,
+    -3.5269497
+  ],
+  [
+    "St John Houghton School, Ilkeston",
+    52.9632696,
+    -1.327400053644325
+  ],
+  [
+    "AOPP, Oxford",
+    51.75875945,
+    -1.2550636261836865
   ]
 ];

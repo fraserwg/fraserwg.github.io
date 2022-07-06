@@ -15,10 +15,10 @@ import glob
 import getorg
 from geopy import Nominatim
 
-g = glob.glob("*.md")
+g = glob.glob("./_talks/*.md") + glob.glob("./_invited_talks/*.md")
 
 
-geocoder = Nominatim()
+geocoder = Nominatim(user_agent="my-test-application")
 location_dict = {}
 location = ""
 permalink = ""
@@ -38,9 +38,13 @@ for file in g:
         location_dict[location] = geocoder.geocode(location)
         print(location, "\n", location_dict[location])
 
+location_dict['AOPP, Oxford'] = geocoder.geocode('University of Oxford')
+location_dict['Imperial College London'] = geocoder.geocode("Imperial College London")
+location_dict['The Trinity School Nottingham'] = geocoder.geocode("Trinity school nottingham") 
+location_dict['St John Houghton School, Ilkeston'] = geocoder.geocode("St John Houghton, Ilkeston")  
 
 m = getorg.orgmap.create_map_obj()
-getorg.orgmap.output_html_cluster_map(location_dict, folder_name="../talkmap", hashed_usernames=False)
+getorg.orgmap.output_html_cluster_map(location_dict, folder_name="./talkmap", hashed_usernames=False)
 
 
 
