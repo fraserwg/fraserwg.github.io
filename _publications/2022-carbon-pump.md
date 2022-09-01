@@ -1,0 +1,15 @@
+---
+title: "The biological carbon pump in CMIP6 models: 21st century trends and uncertainties"
+collection: publications
+permalink: /publication/2022-carbon-pump
+excerpt: 'The biological carbon pump (BCP) stores ∼1,700 Pg C from the atmosphere in the ocean interior, but the magnitude and direction of future changes in carbon sequestration by the BCP are uncertain. We quantify global trends in export production, sinking organic carbon fluxes, and sequestered carbon in the latest Coupled Model Intercomparison Project Phase 6 (CMIP6) future projections, finding a consistent 19 to 48 Pg C increase in carbon sequestration over the 21st century for the SSP3-7.0 scenario, equivalent to 5 to 17% of the total increase of carbon in the ocean by 2100. This is in contrast to a global decrease in export production of –0.15 to –1.44 Pg C y–1. However, there is significant uncertainty in the modeled future fluxes of organic carbon to the deep ocean associated with a range of different processes resolved across models. We demonstrate that organic carbon fluxes at 1,000 m are a good predictor of long-term carbon sequestration and suggest this is an important metric of the BCP that should be prioritized in future model studies.'
+date: 2022-07-11
+venue: 'PNAS'
+paperurl: 'https://doi.org/10.1073/pnas.2204369119'
+citation: 'Wilson, J.D., et al. (2022) Carbon Sequestration by the Biological Carbon Pump in CMIP6 models: 21st century trends and uncertainties. PNAS, 119(29).'
+---
+The biological carbon pump (BCP) stores ∼1,700 Pg C from the atmosphere in the ocean interior, but the magnitude and direction of future changes in carbon sequestration by the BCP are uncertain. We quantify global trends in export production, sinking organic carbon fluxes, and sequestered carbon in the latest Coupled Model Intercomparison Project Phase 6 (CMIP6) future projections, finding a consistent 19 to 48 Pg C increase in carbon sequestration over the 21st century for the SSP3-7.0 scenario, equivalent to 5 to 17% of the total increase of carbon in the ocean by 2100. This is in contrast to a global decrease in export production of –0.15 to –1.44 Pg C y–1. However, there is significant uncertainty in the modeled future fluxes of organic carbon to the deep ocean associated with a range of different processes resolved across models. We demonstrate that organic carbon fluxes at 1,000 m are a good predictor of long-term carbon sequestration and suggest this is an important metric of the BCP that should be prioritized in future model studies.
+
+[Download paper here](https://doi.org/10.1073/pnas.2204369119)
+
+Recommended citation: Wilson, J.D., et al. (2022) Carbon Sequestration by the Biological Carbon Pump in CMIP6 models: 21st century trends and uncertainties. PNAS, 119(29).
