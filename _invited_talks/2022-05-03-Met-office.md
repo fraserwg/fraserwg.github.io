@@ -1,7 +1,7 @@
 ---
-title: "Met Office Ocean Group Seminars"
-collection: invited_talks
-type: "Invited talk"
+title: "Met Office Ocean Group Seminar"
+collection: "invited-talks"
+type: "invited-talks"
 permalink:
 venue: "Met Office"
 date: 2022-03-01

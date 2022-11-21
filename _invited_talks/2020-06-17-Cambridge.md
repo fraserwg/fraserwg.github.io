@@ -1,6 +1,6 @@
 ---
-title: "Cambridge group meetings"
-collection: invited_talks
+title: "Cambridge group meeting"
+collection: "invited-talks"
 type: "Talk"
 permalink: /invited_talks/2020-06-17-Cambridge
 venue: "DAMTP, University of Cambridge"
