@@ -1,6 +1,4 @@
 source 'https://rubygems.org'
-gem "minimal-mistakes-jekyll"
-gem "faraday-retry"
 gem "addressable"
 gem "bundler"
 gem "colorator"
@@ -17,7 +15,7 @@ gem "i18n"
 gem "jekyll"
 gem "jekyll-feed"
 gem "jekyll-gist"
-gem "jekyll-include-cache"
+gem "jekyll-include-cache", group: :jekyll_plugins
 gem "jekyll-paginate"
 gem "jekyll-sass-converter"
 gem "jekyll-sitemap"
@@ -41,3 +39,5 @@ gem "sassc"
 gem "sawyer"
 gem "terminal-table"
 gem "unicode-display_width"
+
+gem "github-pages", group: :jekyll_plugins
