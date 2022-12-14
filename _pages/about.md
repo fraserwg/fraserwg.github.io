@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm Fraser Goldsworth, an oceanographer currently based at the University of Oxford in the UK. This is my academic website, and here you'll find information about my research interests, publications, CV, and contact details.
+I'm Fraser Goldsworth, an oceanographer working at the Max Planck Institute in Deutschland. This is my academic website, and here you'll find information about my research interests, publications, CV, and contact details.
 
 Research interests
 ======
-My research interests span almost the entire breadth of physical oceanography. I specialise in high-resolution numerical modelling of sub-mesoscale phenomena, but am particularly interested in how these processes impact larger mesoscale and global scale current systems. My PhD thesis focuses on the interaction between symmetric instability and various western boundary current systems in the Atlantic; these currents being important components of the Atlantic Meridional Overturning Circulation. My thesis contains chapters on the North Brazil Current, the deep western boundary current as it crosses the equator and the high lattitude Irminger Current. I also enjoy using simplified toy models to explain the essential dynamics of these systems.
+My research interests span almost the entire breadth of physical oceanography. I'm currently a postodoctoral researcher working on the EERIE project, where I'm investigating the effect of mesoscale eddies and fine-scale boundary currents on climate. Prior to this I completed a PhD on the role of symmetric instability in the Atlantic Meridional Overturning Circulation, and used both numerical models and theory to probe the interactions between symmetric instability and various western boundary current systems in the Atlantic. My thesis contains chapters on the North Brazil Current, the deep western boundary current as it crosses the equator and the high latitude East Greenland Current.
 
 As well as my purely scientific work, I'm very passionate about open-science, open-source software, and EDI issues.
 

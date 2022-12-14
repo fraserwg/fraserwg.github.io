@@ -104,12 +104,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fraser Goldsworth"
+  name             : 
   avatar           : "/images/IMG_0423.jpg"
-  bio              : "Oceanographer at the University of Oxford, about to move to MPI-M Hamburg"
-  location         : 
+  bio              : "Oceanographer at the Max Planck Institute for Meteorology"
+  location         : "Hamburg, DE"
   email            : "frasergocean@gmail.com"
-  employer         : "AOPP, University of Oxford, UK"
+  employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=SqRZinsAAAAJ&hl=en"
   email            : "frasergocean@gmail.com"
@@ -128,7 +128,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-8677-2105l"
+  orcid            : "https://orcid.org/0000-0001-8677-2105"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -140,10 +140,13 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-#  links:
-#    - label: "Email"
-#      icon: "fas fa-fw fa-envelope-square"
-#      # url: "mailto:your.name@email.com"
+  links:
+    - label: "ORCiD"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0001-8677-2105"
+    - label: "Google scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=SqRZinsAAAAJ&hl=en"
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
 #      # url: "https://your-website.com"
