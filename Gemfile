@@ -1,43 +1,22 @@
 source 'https://rubygems.org'
-gem "addressable"
-gem "bundler"
-gem "colorator"
-gem "concurrent-ruby"
-gem "em-websocket"
-gem "eventmachine"
-gem "faraday"
-gem "faraday-net_http"
-gem "faraday-retry"
-gem "ffi"
-gem "forwardable-extended"
-gem "http_parser.rb"
-gem "i18n"
-gem "jekyll"
-gem "jekyll-feed"
-gem "jekyll-gist"
-gem "jekyll-include-cache", group: :jekyll_plugins
-gem "jekyll-paginate"
-gem "jekyll-sass-converter"
-gem "jekyll-sitemap"
-gem "jekyll-watch"
-gem "kramdown"
-gem "kramdown-parser-gfm"
-gem "liquid"
-gem "listen"
-gem "mercenary"
-gem "minimal-mistakes-jekyll"
-gem "octokit"
-gem "pathutil"
-gem "public_suffix"
-gem "rb-fsevent"
-gem "rb-inotify"
-gem "rexml"
-gem "rouge"
-gem "ruby2_keywords"
-gem "safe_yaml"
-gem "sassc"
-gem "sawyer"
-gem "terminal-table"
-gem "unicode-display_width"
 
-gem "github-pages", group: :jekyll_plugins
+# Use the github-pages gem which includes Jekyll and plugins supported by GitHub Pages
+# Using version 228 which is compatible with Ruby 2.6
+gem "github-pages", "~> 228", group: :jekyll_plugins
+
+# Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
+# and associated library.
+platforms :mingw, :x64_mingw, :mswin, :jruby do
+  gem "tzinfo", "~> 1.2"
+  gem "tzinfo-data"
+end
+
+# Performance-booster for watching directories on Windows
+gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+
+# Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
+# do not have a Java counterpart.
+gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
+
+# Additional plugins that are supported by GitHub Pages
+gem "jekyll-include-cache", group: :jekyll_plugins
