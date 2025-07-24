@@ -8,16 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-I'm Fraser Goldsworth, an oceanographer working at the Max Planck Institute in Deutschland. This is my academic website, and here you'll find information about my research interests, publications, CV, and contact details.
+Welcome to my site! I'm a physical oceanographer working at the Max Planck Institute for Meteorology in Hamburg, Germany. Here you will find information on my research interests, publications and how to contact me.
+
+Outside of my academic work, I'm passionate about open-science, open-source software, and EDI issues.
 
 Research interests
-======
-My research interests span almost the entire breadth of physical oceanography. I'm currently a postodoctoral researcher working on the EERIE project, where I'm investigating the effect of mesoscale eddies and fine-scale boundary currents on climate. I'm particularly interested in questions relating to AMOC stability, and the oceanic fate of anthropogenic heat and carbon.
+==================
+I'm a postdoctoral researcher working on the EERIE project, where I'm investigating the effect of mesoscale eddies and fine-scale boundary currents on the climate system. I co-lead a work package looking at mesoscale interactions between the ocean and the atmosphere/cryosphere. I also work on assessing how representing the mesoscale in models alters the representation of climate relevant processes.
 
-Prior to this I completed a PhD on the role of symmetric instability in the Atlantic Meridional Overturning Circulation, and used both numerical models and theory to probe the interactions between symmetric instability and various western boundary current systems in the Atlantic. My thesis contains chapters on the North Brazil Current, the deep western boundary current as it crosses the equator and the high latitude East Greenland Current.
+If you look at my publications tab, you'll get a feel for some of my research interests --- symmetric instability, the sub-polar North Atlantic & the Tropical Atlantic, and the AMOC.
 
-As well as my purely scientific work, I'm very passionate about open-science, open-source software, and EDI issues.
+Under the below headings I summarise some of the research questions I'm currently trying to address.
+
+
+
+AMOC
+----
+- How does the realistic representation of freshwater pathways around Greenland in models alter the AMOC's sensitivity to freshwater inputs?
+- How do the processes sustaining the AMOC differ in eddy resolving and eddy parameterised models?
+- What is the role of the ocean's mesoscale in the formation of the dense waters which make up the AMOC's deep limb?
+
+Anthropogenic Carbon
+--------------------
+- Does the oceanic inventory of anthropogenic carbon differ between eddy resolving and eddy parameterised models?
+
+Symmetric instability in the Tropical Atlantic
+----------------------------------------------
+- What are the downstream impacts of symmetric instability in the Tropical Atlantic? 
+
 
 Hobbies
-======
-Outside the realm of academia, I'm a keen sailor. I've raced boats ranging from 12 ft to 40 ft in length and can often be found out on the water.
+=======
+I'm a keen sailor and have raced boats ranging from 12 ft to 40 ft in length. When not studying water, you'll me find floating on it.
