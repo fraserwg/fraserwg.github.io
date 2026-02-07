@@ -80,8 +80,8 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : &twitter
+# twitter:
+#   username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -127,26 +127,33 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "fraser-goldsworth-059a75150"
   orcid            : "https://orcid.org/0000-0001-8677-2105"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "fraserocean"
+  twitter          :
+  bluesky          : "https://bsky.app/profile/frasergocean.bsky.social"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
   links:
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/frasergocean.bsky.social"
     - label: "ORCiD"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0001-8677-2105"
     - label: "Google scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=SqRZinsAAAAJ&hl=en"
+    # - label: "LinkedIn"
+    #   icon: "fab fa-fw fa-linkedin"
+    #   url: "https://www.linkedin.com/in/fraser-goldsworth-059a75150/?originalSubdomain=uk"
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
 #      # url: "https://your-website.com"
