@@ -12,4 +12,4 @@ Observations indicate that symmetric instability is active in the East Greenland
 
 [Download paper here](https://doi.org/10.1029/2023JC020365)
 
-Recommended citation:Goldsworth, F. W., Johnson, H. L., Marshall, D. P., & Le Bras, I. A. (2024) Destratifying and Restratifying Instabilities During Down-Front Wind Events: A Case Study in the Irminger Sea. Journal of Geophysical Research: Oceans, 129, e2023JC020365. https://doi.org/10.1029/2023JC020365.
+Recommended citation: Goldsworth, F. W., Johnson, H. L., Marshall, D. P., & Le Bras, I. A. (2024) Destratifying and Restratifying Instabilities During Down-Front Wind Events: A Case Study in the Irminger Sea. Journal of Geophysical Research: Oceans, 129, e2023JC020365. https://doi.org/10.1029/2023JC020365.

@@ -3,15 +3,16 @@ title: "A novel framework for studying oceanic freshwater transports, and its ap
 collection: publications
 permalink: /publication/2024-salt-mixing-spna
 excerpt: 'In the sub-polar North Atlantic, the accumulation of fresh meltwaters from Greenland and the Arctic can impact the strength of the climatically important Atlantic Meridional Overturning Circulation. In this study I investigate and map out the processes that contribute to the accumulation of freshwater in four different regions around Greenland, quantifying horizontal transports of freshwater and the expansion and depletion of freshwater reservoirs by surface sources and interior mixing. Rather than using traditional freshwater budgets, whose flaws are well documented, I propose the novel use of the freshwater transformation framework and apply it to outputs from an eddy resolving coupled climate model (10 km atmosphere and 5 km ocean). Analysing volume transports in salinity space we observe the salinification of the boundary currents surrounding Greenland as they flow from Fram Strait towards the Labrador Sea. Using the freshwater transformation framework we are able to link the salinification to mixing, sea-ice formation or the accumulation of freshwaters stored in the waters surrounding Greenland. The balance changes depending upon the region and season under question.  The mixing of freshwaters is found to be stronger during wintertime than in summertime. Furthermore, mixing plays a more dominant role in the freshwater transformation budget off Southern Greenland, where sea-ice cover is low, than off Northern Greenland, where sea-ice cover is high.'
-date: 2025-07-17
+date: 2026-02-01
 venue: 'Journal of Ocean Modelling'
-paperurl: 'coming soon'
-citation: 'Goldsworth, F. W., (2025) A novel framework for studying oceanic freshwater transports, and its application in discerning the modelled fate of freshwater around the coast of Greenland (accepted)'
+paperurl: 'https://doi.org/10.1016/j.ocemod.2025.102599'
+citation: 'Goldsworth, F. W., (2026) A novel framework for studying oceanic freshwater transports, and its application in discerning the modelled fate of freshwater around the coast of Greenland (accepted)'
 ---
 In the sub-polar North Atlantic, the accumulation of fresh meltwaters from Greenland and the Arctic can impact the strength of the climatically important Atlantic Meridional Overturning Circulation. In this study I investigate and map out the processes that contribute to the accumulation of freshwater in four different regions around Greenland, quantifying horizontal transports of freshwater and the expansion and depletion of freshwater reservoirs by surface sources and interior mixing. Rather than using traditional freshwater budgets, whose flaws are well documented, I propose the novel use of the freshwater transformation framework and apply it to outputs from an eddy resolving coupled climate model (10 km atmosphere and 5 km ocean).
 
 Analysing volume transports in salinity space we observe the salinification of the boundary currents surrounding Greenland as they flow from Fram Strait towards the Labrador Sea. Using the freshwater transformation framework we are able to link the salinification to mixing, sea-ice formation or the accumulation of freshwaters stored in the waters surrounding Greenland. The balance changes depending upon the region and season under question.  The mixing of freshwaters is found to be stronger during wintertime than in summertime. Furthermore, mixing plays a more dominant role in the freshwater transformation budget off Southern Greenland, where sea-ice cover is low, than off Northern Greenland, where sea-ice cover is high.
 
-[Link coming soon]()
+[Download paper here](https://doi.org/10.1016/j.ocemod.2025.102599)
 
-Recommended citation:Goldsworth, F. W. (2025) A novel framework for studying oceanic freshwater transports, and its application in discerning the modelled fate of freshwater around the coast of Greenland. Journal of Ocean Modelling (accepted).
+Recommended citation: Goldsworth, F. W. 2026. ‘A Novel Framework for Studying Oceanic Freshwater Transports, and Its Application in Discerning the Modelled Fate of Freshwater around the Coast of Greenland’. Ocean Modelling 199 (February): 102599. https://doi.org/10.1016/j.ocemod.2025.102599.
+
